@@ -32,6 +32,3 @@ The trained model predicts future daily COVID-19 cases based on past trends and 
 1. Clone the repository
 2. Install required libraries
 3. Run the Jupyter Notebook
-
-## 👤 Author
-T.Vijaya Abhimanya
